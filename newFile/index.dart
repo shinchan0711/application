@@ -7,7 +7,13 @@ print(index) {
   throw UnimplementedError();
 }
 
-
 void newfaction(){
+print(index);
 
+if(index==0){
+  print('This is useful');
+}
+else{
+  print('This is wrong key');
+}
 }
