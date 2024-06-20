@@ -6,3 +6,8 @@ print(index) {
   // TODO: implement print
   throw UnimplementedError();
 }
+
+
+void newfaction(){
+
+}
